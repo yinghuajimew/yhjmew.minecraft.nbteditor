@@ -79,7 +79,7 @@ Just like a tire, a similar
   <br/>
   <img src="./Screenshots/en/Map data.jpg" width="80%">
   <br/>
-  <img src="./Screenshots/zh/More operations.jpg" width="80%">
+  <img src="./Screenshots/en/More operations.jpg" width="80%">
   <br/>
   <img src="./Screenshots/en/Map puzzle warning.jpg" width="80%">
   <br/>
