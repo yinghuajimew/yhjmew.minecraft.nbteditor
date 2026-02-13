@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="24dp">
+
+        <!-- 1. 标题 -->
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_about_title"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#212121"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <!-- 2. 内容 -->
+        <TextView
+            android:id="@+id/tv_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_title"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="24dp"
+            android:textSize="16sp"
+            android:textColor="#666666"
+            android:lineSpacingExtra="4dp" />
+
+        <!-- 3. [新增] 多线程开关 -->
+        <CheckBox
+            android:id="@+id/cb_multithread"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/box_enable_multi_thread_acceleration"
+            android:textColor="#555555"
+            android:textSize="14sp"
+            android:layout_below="@id/tv_message"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="10dp" />
+
+        <!-- 4. 左侧按钮容器 -->
+        <LinearLayout
+            android:id="@+id/left_button_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_below="@id/cb_multithread"
+            android:layout_alignParentStart="true"
+            android:layout_toStartOf="@+id/btn_close_dialog">
+
+            <Button
+                android:id="@+id/btn_switch_mode"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:text="@string/btn_switch_day_and_night"
+                android:textColor="#FF9800"
+                android:textSize="13sp"
+                android:gravity="start|center_vertical"
+                android:paddingStart="0dp"
+                android:paddingEnd="0dp"
+                android:singleLine="true" />
+
+            <Button
+                android:id="@+id/btn_switch_lang"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="36dp"
+                android:text="@string/action_toggle_lang"
+                android:textColor="#2196F3"
+                android:textSize="13sp"
+                android:gravity="start|center_vertical"
+                android:paddingStart="0dp"
+                android:paddingEnd="0dp"
+                android:singleLine="true" />
+        </LinearLayout>
+
+        <!-- 5. 右侧确定按钮 -->
+        <Button
+            android:id="@+id/btn_close_dialog"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:text="@string/btn_confirm"
+            android:textColor="#009688"
+            android:textStyle="bold"
+            android:textSize="15sp"
+            android:paddingEnd="0dp"
+            android:layout_below="@id/cb_multithread"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="20dp" />
+
+    </RelativeLayout>
+</ScrollView>
