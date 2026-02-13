@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="120" src="./yhjmew.png">
+<img height="120" src="./Screenshots/yhjmew.png">
 
 <h1 align="center">yhjmew NBT editor</h1>
 

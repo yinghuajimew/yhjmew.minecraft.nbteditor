@@ -1,6 +1,6 @@
 <div align="center">
 
-<img height="120" src="./yhjmew.png">
+<img height="120" src="./Screenshots/yhjmew.png">
 
 <h1 align="center">樱花祭喵 NBT编辑器</h1>
 
