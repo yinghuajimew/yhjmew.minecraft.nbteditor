@@ -39,11 +39,11 @@ English · [Chinese](./README.zh-CN.md) · [Change log](./CHANGELOG.md)
 
 #### directory listing
 
-- [🌸 Project Introduction](#-Project Introduction)
-- [🖼️ App Screenshot](#-App Screenshot)
-- [🚀 Get started quickly](#-Get started quickly)
-- [📄 Update Log](#-Update Log)
-- [👥 Thank you list](#-Thank you list)
+- [🌸 Project Introduction](#-Project-Introduction)
+- [🖼️ App Screenshot](#-App-Screenshot)
+- [🚀 Get started quickly](#-Get-started quickly)
+- [📄 Update Log](#-Update-Log)
+- [👥 Thank you list](#-Thank-you-list)
 
 </details>
 
