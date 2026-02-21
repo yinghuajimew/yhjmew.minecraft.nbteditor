@@ -106,7 +106,7 @@ Introduction and usage tutorial：
 
 [![Watch the video](./Screenshots/Minecraft_Android_NBT_Editor.png)](https://www.bilibili.com/video/BV16dfnBrEzT)
 
-图文会在24号之前赶出来
+The pictures and text will be out before the 24th
 
 > [!TIP]
 > Make sure you **have the basics[Shizuku](https://github.com/RikkaApps/Shizuku)use**, the app will ask for<br/>
