@@ -104,7 +104,7 @@ Just like a tire, a similar
 
 Introduction and usage tutorial：
 
-[![Watch the video](./Screenshots/Minecraft Android NBT Editor.png)](https://www.bilibili.com/video/BV16dfnBrEzT)
+[![Watch the video](./Screenshots/Minecraft_Android_NBT_Editor.png)](https://www.bilibili.com/video/BV16dfnBrEzT)
 
 图文会在24号之前赶出来
 
