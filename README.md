@@ -44,6 +44,8 @@ English · [Chinese](./README.zh-CN.md) · [Change log](./CHANGELOG.md)
 - [🚀 Get started quickly](#-Get-started-quickly)
 - [📄 Update Log](#-Update-Log)
 - [👥 Thank you list](#-Thank-you-list)
+- [📜 Open source agreement](#-Open-source-agreement)
+
 
 </details>
 
@@ -54,51 +56,57 @@ The imitation Blocktopograph is not directly adapted from him.
 Just like a tire, a similar
 
 ## 🖼️ App screenshots
-<details open>
+<details>
 <summary><kbd>🌸 View app interface preview</kbd></summary>
 
 <div align="center">
   <br/>
   <!-- 这里直接引用底部的链接名是不行的，必须写路径或者直接用引用式 -->
   <!-- 建议如果需要限宽，直接在 details 里用 img 标签 -->
-  <img src="./Screenshots/en/Home page.jpg" width="80%">
+  <img src="./Screenshots/en/Home page.jpg" width="80%" alt="Home page">
   <br/>
-  <img src="./Screenshots/en/World exhibition.jpg" width="80%">
+  <img src="./Screenshots/en/World exhibition.jpg" width="80%" alt="World exhibition">
   <br/>
-  <img src="./Screenshots/en/Full-screen with tree view display.jpg" width="80%">
+  <img src="./Screenshots/en/Full-screen with tree view display.jpg" width="80%" alt="Full-screen with tree view display">
   <br/>
-  <img src="./Screenshots/en/Root node operation.jpg" width="80%">
+  <img src="./Screenshots/en/Root node operation.jpg" width="80%" alt="Root node operation">
   <br/>
-  <img src="./Screenshots/en/Switch the display mode.jpg" width="80%">
+  <img src="./Screenshots/en/Switch the display mode.jpg" width="80%" alt="Switch the display mode">
   <br/>
-  <img src="./Screenshots/en/Restore backup.jpg" width="80%">
+  <img src="./Screenshots/en/Restore backup.jpg" width="80%" alt="Restore backup">
   <br/>
-  <img src="./Screenshots/en/sidebar.jpg" width="80%">
+  <img src="./Screenshots/en/sidebar.jpg" width="80%" alt="sidebar">
   <br/>
-  <img src="./Screenshots/en/Player data.jpg" width="80%">
+  <img src="./Screenshots/en/Player data.jpg" width="80%" alt="Player data">
   <br/>
-  <img src="./Screenshots/en/Map data.jpg" width="80%">
+  <img src="./Screenshots/en/Map data.jpg" width="80%" alt="Map data">
   <br/>
-  <img src="./Screenshots/en/More operations.jpg" width="80%">
+  <img src="./Screenshots/en/More operations.jpg" width="80%" alt="More operations">
   <br/>
-  <img src="./Screenshots/en/Map puzzle warning.jpg" width="80%">
+  <img src="./Screenshots/en/Map puzzle warning.jpg" width="80%" alt="Map puzzle warning">
   <br/>
-  <img src="./Screenshots/en/Select the size of the puzzle.jpg" width="80%">
+  <img src="./Screenshots/en/Select the size of the puzzle.jpg" width="80%" alt="Select the size of the puzzle">
   <br/>
-  <img src="./Screenshots/en/Village data.jpg" width="80%">
+  <img src="./Screenshots/en/Village data.jpg" width="80%" alt="Village data">
   <br/>
-  <img src="./Screenshots/en/Long press menu.jpg" width="80%">
+  <img src="./Screenshots/en/Long press menu.jpg" width="80%" alt="Long press menu">
   <br/>
-  <img src="./Screenshots/en/Open by name.jpg" width="80%">
+  <img src="./Screenshots/en/Open by name.jpg" width="80%" alt="Open by name">
   <br/>
-  <img src="./Screenshots/en/Global system data.jpg" width="80%">
+  <img src="./Screenshots/en/Global system data.jpg" width="80%" alt="Global system data">
   <br/>
 </div>
 
 </details>
 
 ## 🚀 Get started quickly
-It may take some time (3~5 days) until I finish writing it
+### 📺 Introduction to use
+
+Introduction and usage tutorial：
+
+[![Watch the video](./Screenshots/Minecraft Android NBT Editor.png)](https://www.bilibili.com/video/BV16dfnBrEzT)
+
+图文会在24号之前赶出来
 
 > [!TIP]
 > Make sure you **have the basics[Shizuku](https://github.com/RikkaApps/Shizuku)use**, the app will ask for<br/>
@@ -112,7 +120,7 @@ It may take some time (3~5 days) until I finish writing it
 
 - [x] based on existing Blocktopograph 1.9.4 rbq2012.blocktopograph
 - [ ] The map is not implemented yet
-- [ ] old No Shizuku version
+- [ ] ~~old No Shizuku version~~ Unified and merged into one version
 
 </details>
 
@@ -123,7 +131,9 @@ Other ideas and modifications are still being implemented
  [@LeviMC](https://github.com/LiteLDev) Provided me with methods and ideas for modifications<br/>
 (It is also recommended to take a look at LeviMC’s open source projects)
 
+## 📜 Open source agreement
 
+This project uses **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)** protocol
 
 
 
@@ -150,8 +160,8 @@ Other ideas and modifications are still being implemented
 <!-- 社交链接定义 -->
 
 <!-- Bilibili: 少女粉 #FB7299 -->
-[bilibili-shield]: https://img.shields.io/badge/Bilibili-In_production-FB7299?style=flat-square&labelColor=black&logo=bilibili&logoColor=white
-[bilibili-link]: https://space.bilibili.com/648037057
+[bilibili-shield]: https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&labelColor=black&logo=bilibili&logoColor=white
+[bilibili-link]: https://www.bilibili.com/video/BV16dfnBrEzT
 
 <!-- QQ交流群: 腾讯蓝 #12B7F5 -->
 [qq-shield]: https://img.shields.io/badge/QQ_group-12B7F5?style=flat-square&labelColor=black&logo=qq&logoColor=white

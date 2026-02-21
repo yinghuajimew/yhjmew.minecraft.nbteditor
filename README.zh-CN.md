@@ -18,7 +18,7 @@
 [![QQ Group][qq-shield]][qq-link]
 [![Telegram][tg-shield]][tg-link]
 
-[English](./README.md) · 中文 · [变更日志](./CHANGELOG.md)
+[English](./README.md) · 中文 · [变更日志](./CHANGELOG.zh-CN.md)
 
 </div>
 
@@ -44,6 +44,7 @@
 - [🚀 快速上手](#-快速上手)
 - [📄 更新日志](#-更新日志)
 - [👥 感谢列表](#-感谢列表)
+- [📜 开源协议](#-开源协议)
 
 </details>
 
@@ -54,51 +55,57 @@
 就像轮胎一样，仿造了一个类似
 
 ## 🖼️ 应用截图
-<details open>
+<details>
 <summary><kbd>🌸 查看应用界面预览</kbd></summary>
 
 <div align="center">
   <br/>
   <!-- 这里直接引用底部的链接名是不行的，必须写路径或者直接用引用式 -->
   <!-- 建议如果需要限宽，直接在 details 里用 img 标签 -->
-  <img src="./Screenshots/zh/主页.jpg" width="80%">
+  <img src="./Screenshots/zh/主页.jpg" width="80%" alt="主页">
   <br/>
-  <img src="./Screenshots/zh/世界展示.jpg" width="80%">
+  <img src="./Screenshots/zh/世界展示.jpg" width="80%" alt="世界展示">
   <br/>
-  <img src="./Screenshots/zh/全屏加树型展示.jpg" width="80%">
+  <img src="./Screenshots/zh/全屏加树型展示.jpg" width="80%" alt="全屏加树型展示">
   <br/>
-  <img src="./Screenshots/zh/根节点操作.jpg" width="80%">
+  <img src="./Screenshots/zh/根节点操作.jpg" width="80%" alt="根节点操作">
   <br/>
-  <img src="./Screenshots/zh/切换显示模式.jpg" width="80%">
+  <img src="./Screenshots/zh/切换显示模式.jpg" width="80%" alt="切换显示模式">
   <br/>
-  <img src="./Screenshots/zh/恢复备份.jpg" width="80%">
+  <img src="./Screenshots/zh/恢复备份.jpg" width="80%" alt="恢复备份">
   <br/>
-  <img src="./Screenshots/zh/侧边栏.jpg" width="80%">
+  <img src="./Screenshots/zh/侧边栏.jpg" width="80%" alt="侧边栏">
   <br/>
-  <img src="./Screenshots/zh/玩家数据.jpg" width="80%">
+  <img src="./Screenshots/zh/玩家数据.jpg" width="80%" alt="玩家数据">
   <br/>
-  <img src="./Screenshots/zh/地图数据.jpg" width="80%">
+  <img src="./Screenshots/zh/地图数据.jpg" width="80%" alt="地图数据">
   <br/>
-  <img src="./Screenshots/zh/更多操作.jpg" width="80%">
+  <img src="./Screenshots/zh/更多操作.jpg" width="80%" alt="更多操作">
   <br/>
-  <img src="./Screenshots/zh/地图拼图警告.jpg" width="80%">
+  <img src="./Screenshots/zh/地图拼图警告.jpg" width="80%" alt="地图拼图警告">
   <br/>
-  <img src="./Screenshots/zh/选择拼图规模.jpg" width="80%">
+  <img src="./Screenshots/zh/选择拼图规模.jpg" width="80%" alt="选择拼图规模">
   <br/>
-  <img src="./Screenshots/zh/村庄数据.jpg" width="80%">
+  <img src="./Screenshots/zh/村庄数据.jpg" width="80%" alt="村庄数据">
   <br/>
-  <img src="./Screenshots/zh/长按菜单.jpg" width="80%">
+  <img src="./Screenshots/zh/长按菜单.jpg" width="80%" alt="长按菜单">
   <br/>
-  <img src="./Screenshots/zh/按名称打开.jpg" width="80%">
+  <img src="./Screenshots/zh/按名称打开.jpg" width="80%" alt="按名称打开">
   <br/>
-  <img src="./Screenshots/zh/全局系统数据.jpg" width="80%">
+  <img src="./Screenshots/zh/全局系统数据.jpg" width="80%" alt="全局系统数据">
   <br/>
 </div>
 
 </details>
 
 ## 🚀 快速上手
-可能还需要一段时间(3~5天)，等我写完
+### 📺 使用介绍
+
+介绍与使用教程：
+
+[![Watch the video](./assets/video_cover.png)](https://www.bilibili.com/video/你的BV号)
+
+图文会在24号之前赶出来
 
 > [!TIP]
 > 确保您**具有基础[Shizuku](https://github.com/RikkaApps/Shizuku)使用**，此应用会在启动时索要<br/>
@@ -112,18 +119,20 @@
 
 - [x] 根据现有的Blocktopograph 1.9.4 rbq2012.blocktopograph
 - [ ] 地图暂时未实现
-- [ ] old 无Shizuku版本
+- [ ] ~~old 无Shizuku版本~~ 统一合并为一个版本
 
 </details>
 
-其他想法和修改还在实现中
+_其他想法和修改还在实现中_
 
 ## 👥 感谢列表
  [@Yejdhi](https://github.com/Yejdhi) 给我提供了许多方法和修改的点子<br/>
  [@LeviMC](https://github.com/LiteLDev) 给我提供了方法和修改的点子<br/>
 (也推荐看看LeviMC他们的开源项目)
 
+## 📜 开源协议
 
+本项目采用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)** 协议
 
 
 
@@ -150,7 +159,7 @@
 <!-- 社交链接定义 -->
 
 <!-- Bilibili: 少女粉 #FB7299 -->
-[bilibili-shield]: https://img.shields.io/badge/Bilibili-制作中-FB7299?style=flat-square&labelColor=black&logo=bilibili&logoColor=white
+[bilibili-shield]: https://img.shields.io/badge/Bilibili-FB7299?style=flat-square&labelColor=black&logo=bilibili&logoColor=white
 [bilibili-link]: https://space.bilibili.com/648037057
 
 <!-- QQ交流群: 腾讯蓝 #12B7F5 -->
