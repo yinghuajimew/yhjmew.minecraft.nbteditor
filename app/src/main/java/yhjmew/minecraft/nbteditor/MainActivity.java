@@ -5809,7 +5809,7 @@ private String getTypeLabel(String type) {
         case "effect": return getString(R.string.title_effect);
         case "enchant": return getString(R.string.title_enchant);
         case "all": return getString(R.string.title_all);
-        default: return getString(R.string.title_data)
+        default: return getString(R.string.title_data);
     }
 }
 
