@@ -27,7 +27,7 @@
 > [!WARNING]
 > 我知道会有问题，但是我还得道歉<br/>
 > 这个应用只有在[AIDE+](https://github.com/AndroidIDE-CN/AIDE-Plus)上可构建跑通<br/>
-> **此应用代码100%均由Gemini 3 Pro preview 编写**<br/>
+> **此应用代码由Gemini 3 Pro preview 与 Kimi-K2.5 编写**<br/>
 > **您在 Java xml 等当中，可能会看见大量注释(甚至是历史遗留注释)和未进行正确格式化**<br/>
 
 > [!TIP]

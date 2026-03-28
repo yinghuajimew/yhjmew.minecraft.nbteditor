@@ -27,7 +27,7 @@ English · [Chinese](./README.zh-CN.md) · [Change log](./CHANGELOG.md)
 > [!WARNING]
 > I know there will be problems, but I still have to apologize<br/>
 > This application is only available in[AIDE+](https://github.com/AndroidIDE-CN/AIDE-Plus)Runthrough can be built on<br/>
-> **This application code is 100% written by Gemini 3 Pro preview**<br/>
+> **This application code is written by Gemini 3 Pro preview and Kimi-K2.5**<br/>
 > **You may see a large number of comments (even historical comments) and incorrect formatting in Java xml, etc.**<br/>
 
 > [!TIP]
