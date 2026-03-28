@@ -132,7 +132,7 @@ _其他想法和修改还在实现中_
 
 ## 📜 开源协议
 
-本项目采用 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)** 协议
+本项目采用 **[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0)** 协议
 
 
 

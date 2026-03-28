@@ -133,7 +133,7 @@ Other ideas and modifications are still being implemented
 
 ## 📜 Open source agreement
 
-This project uses **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)** protocol
+This project uses **[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0)** protocol
 
 
 
