@@ -154,8 +154,8 @@ This project uses **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc
 [contributors-shield]: https://img.shields.io/github/contributors/yinghuajimew/yhjmew.minecraft.nbteditor?color=c4f042&labelColor=black&style=flat-square
 [contributors-link]: https://github.com/yinghuajimew/yhjmew.minecraft.nbteditor/graphs/contributors
 
-[license-shield]: https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-orange?style=flat-square&labelColor=black
-[license-link]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+[license-shield]: https://img.shields.io/badge/license-GPL_3.0-blue?style=flat-square&labelColor=black
+[license-link]: https://www.gnu.org/licenses/gpl-3.0
 
 <!-- 社交链接定义 -->
 
