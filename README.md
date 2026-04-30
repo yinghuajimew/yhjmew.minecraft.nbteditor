@@ -133,7 +133,7 @@ Other ideas and modifications are still being implemented
 
 ## 📜 Open source agreement
 
-This project uses **[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0)** protocol
+This project uses **[AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0)** protocol
 
 
 
@@ -154,8 +154,8 @@ This project uses **[GPL 3.0](https://www.gnu.org/licenses/gpl-3.0)** protocol
 [contributors-shield]: https://img.shields.io/github/contributors/yinghuajimew/yhjmew.minecraft.nbteditor?color=c4f042&labelColor=black&style=flat-square
 [contributors-link]: https://github.com/yinghuajimew/yhjmew.minecraft.nbteditor/graphs/contributors
 
-[license-shield]: https://img.shields.io/badge/license-GPL_3.0-blue?style=flat-square&labelColor=black
-[license-link]: https://www.gnu.org/licenses/gpl-3.0
+[license-shield]: https://img.shields.io/badge/license-AGPL_3.0-blue?style=flat-square&labelColor=black
+[license-link]: https://www.gnu.org/licenses/agpl-3.0
 
 <!-- 社交链接定义 -->
 
