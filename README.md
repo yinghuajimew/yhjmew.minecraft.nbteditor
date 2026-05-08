@@ -2,7 +2,7 @@
 
 <img height="120" src="./Screenshots/yhjmew.png">
 
-<h1 align="center">yhjmew NBT editor</h1>
+<h1 align="center">Nibnya</h1>
 
 <!-- SHIELD GROUP -->
 [![Version][version-shield]][version-link]
@@ -23,6 +23,9 @@ English · [Chinese](./README.zh-CN.md) · [Change log](./CHANGELOG.md)
 </div>
 
 <br/>
+
+> [!TIP]
+> A new version of Kotlin is in the works, coming soon!
 
 > [!WARNING]
 > I know there will be problems, but I still have to apologize<br/>

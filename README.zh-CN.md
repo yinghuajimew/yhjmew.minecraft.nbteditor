@@ -2,7 +2,7 @@
 
 <img height="120" src="./Screenshots/yhjmew.png">
 
-<h1 align="center">樱花祭喵 NBT编辑器</h1>
+<h1 align="center">樱喵编辑器</h1>
 
 <!-- SHIELD GROUP -->
 [![Version][version-shield]][version-link]
@@ -23,6 +23,9 @@
 </div>
 
 <br/>
+
+> [!TIP]
+> 新版本Kotlin正在准备中，即将到来！
 
 > [!WARNING]
 > 我知道会有问题，但是我还得道歉<br/>
