@@ -25,7 +25,7 @@ English · [Chinese](./README.zh-CN.md) · [Change log](./CHANGELOG.md)
 <br/>
 
 > [!TIP]
-> A new version of Kotlin is in the works, coming soon!
+> A new version of Kotlin is in the works, coming **this month (2026.5)**!
 
 > [!WARNING]
 > I know there will be problems, but I still have to apologize<br/>
